@@ -1,0 +1,8 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.buttonvendor",
+		"tns-android": {
+			"version": "1.2.1"
+		}
+	}
+}
